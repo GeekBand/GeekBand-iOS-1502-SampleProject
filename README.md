@@ -9,5 +9,5 @@
 
 蓦然目录结构_v1.0   
 蓦然LabManual_登录模块_v1.0.pdf   
-蓦然LabManual注册模块_v1.0   
+蓦然LabManual_注册模块_v1.0   
 
