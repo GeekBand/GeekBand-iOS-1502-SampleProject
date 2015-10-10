@@ -8,6 +8,6 @@
 2015/10/10 蓦然LabManual发布下列模块：  
 
 蓦然目录结构_v1.0   
-蓦然LabManual_登录模块_v1.0   
-蓦然LabManual_注册模块_v1.0   
+蓦然LabManual登录模块_v1.0   
+蓦然LabManual注册模块_v1.0   
 
