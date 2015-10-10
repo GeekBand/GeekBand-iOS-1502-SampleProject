@@ -1,5 +1,5 @@
 # GeekBand-iOS-1502-SampleProject
-极客班二期IOS专业样本项目资源库
+极客班二期iOS专业样本项目资源库
 
 项目讨论区：http://geekband.com/forum/ios
 
