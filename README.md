@@ -30,4 +30,7 @@
 2015/10/23 蓦然LabManual更新下列内容:   
 蓦然LabManual  个人信息模块_v1.2  
 蓦然LabManual  广场模块_v1.0   
- 
+
+2015/11/6 蓦然LabManual更新下列内容:  
+蓦然LabManual  发表模块_v1.0  
+蓦然LabManual  详情模块_v1.0  
