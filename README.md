@@ -34,3 +34,6 @@
 2015/11/6 蓦然LabManual更新下列内容:  
 蓦然LabManual  发表模块_v1.0  
 蓦然LabManual  详情模块_v1.0  
+
+2015/11/8 蓦然LabManual更新下列内容:  
+蓦然LabManual  发表模块_v1.1  (更新了请求API的地址)  
